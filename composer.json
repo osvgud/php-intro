@@ -1,0 +1,18 @@
+{
+    "name": "osvgud/nfq-nd",
+    "description": "NFQ php intro nd",
+    "authors": [
+        {
+            "name": "osvgud",
+            "email": "osvaldas.gudauskas@ktu.edu"
+        }
+    ],
+    "require": {
+        "php-ai/php-ml": "^0.6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "osvgud\\": "src"
+        }
+    }
+}
