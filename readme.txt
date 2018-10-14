@@ -1,14 +1,14 @@
 PHP strict types minusai:
-    1.Kodas tampa nebetoks lankstus, sunkiau tampa j? panaudoti kitose srityse
-    2.Jeigu turime skai?i? ( ar kok? kit? ne string tip? ) ir norime j? spausdinti, reikia j? konvertuoti ? string?
+    1.Kodas tampa nebetoks lankstus, sunkiau tampa ji panaudoti kitose srityse
+    2.Jeigu turime skaiƒçi≈≥ ( ar kokƒØ kitƒÖ ne string tipƒÖ ) ir norime ji spausdinti, reikia ji konvertuoti i stringa
 PHP strict types pliusai:
-    1.Sumaû?ja BUG'? tikimyb? ( jeigu paduodame kitok? tip? nei nurodyta, gauname error'? )
-    2.Nebeb?tina naudoti PHP-DOC TYPE-HINTS ( Nuo PHP7 ).
-    3.Raöomos korektiökesn?s programos, kodas tampa lengviau skaitomas
-    4.Strict types, n?ra privaloma, jeigu programuotojui tai nepatinka, arba atrodo kad geriau WEAK TYPES, jis gali naudoti juos.
+    1.Suma≈æeja BUG'u tikimybe ( jeigu paduodame kitoki tipa nei nurodyta, gauname error'a )
+    2.Nebebutina naudoti PHP-DOC TYPE-HINTS ( Nuo PHP7 ).
+    3.Ra≈°omos korekti≈°kesnes programos, kodas tampa lengviau skaitomas
+    4.Strict types, nera privaloma, jeigu programuotojui tai nepatinka, arba atrodo kad geriau WEAK TYPES, jis gali naudoti juos.
 PHP be strict types minusai:
-    1.Yra tikimyb?, kad esant nevienodiems tipams, gali b?ti, kad IF s?lyga bus tenkinama ir kodas praeis toliau, nors tur?t? b?ti prieöingai
-    ( taip gali b?ti sukelta didel? ûala, nes iökart programuotojas gali nepasteb?ti, kad toje vietoje yra bug'as )
+    1.Yra tikimybe, kad esant nevienodiems tipams, gali buti, kad IF salyga bus tenkinama ir kodas praeis toliau, nors turetu buti prie≈°ingai
+    ( taip gali buti sukelta didelƒó ≈æala, nes i≈°kart programuotojas gali nepastebeti, kad toje vietoje yra bug'as )
 PHP be strict types pliusai:
-    1.Lankstus kodas, galima j? panaudoti daugelyje situacij? ( ar tai nesukels bug?, ?ia jau kitas klausimas ).
-    2.Tipas priskiriamas automatiökai.
+    1.Lankstus kodas, galima ji panaudoti daugelyje situaciju ( ar tai nesukels bugu, cia jau kitas klausimas ).
+    2.Tipas priskiriamas automati≈°kai.
